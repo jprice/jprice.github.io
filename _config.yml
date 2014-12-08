@@ -31,8 +31,8 @@ owner:
   bio: "Describe your self."
   email:
   disqus-shortname:
-  twitter: #jpric3
-  facebook: #jpric2
+  twitter: jpric3
+  facebook: jpric2
   google:
     plus: #username
     analytics: UA-49914648-1
@@ -40,8 +40,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #jprice
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  github: jprice
+  stackoverflow: https://stackoverflow.com/users/1657528/josh-price
   linkedin: #username
   instagram: #username
   lastfm: #username
