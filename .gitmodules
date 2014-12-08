@@ -1,0 +1,3 @@
+[submodule "jprice.github.io"]
+	path = jprice.github.io
+	url = git@github.com:jprice/jprice.github.io.git
