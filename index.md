@@ -1,5 +1,5 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Welcome to Josh Price's personal blog."
+tags: [Josh Price, Josh, Price, Outlaw IT, Outlaw IT Services, IT Services, Jekyll, theme, responsive]
 ---
