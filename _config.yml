@@ -16,6 +16,10 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from  
+
 
 kramdown:
   auto_ids: true
