@@ -3,9 +3,9 @@
 title:            Randomness of Josh Price
 locale:           en_US
 url:              http://jprice.github.io
-version:        0.1.3
-
-
+version:          0.2.0
+image:            outlaw.gif
+description:      Personal blog of Josh Price
 # Jekyll configuration
 
 permalink:   /:categories/:title/

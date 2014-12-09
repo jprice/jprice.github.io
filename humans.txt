@@ -1,10 +1,11 @@
 Last Updated: {{ site.time | date:"%Y/%m/%d" }}
 Standards: HTML5, CSS3
-Components: {% for dependency in site.github.versions %}{{ dependency[0] }}{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}
+Components: Jekyll, jekyll-sitemap, Github Pages, 
 
 /* TEAM */
 Name: Josh Price
 Site: http://www.joshprice.net
 
 /* THANKS */
-    Name: 
+    Name: Michael Rose for the theme.
+      Site: https://github.com/mmistakes/minimal-mistakes 

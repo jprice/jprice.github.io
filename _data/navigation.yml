@@ -3,11 +3,8 @@
 - title: About
   url: /about/
 
-- title: Sample Posts
+- title: Posts
   url: /posts/
-
-- title: Theme Setup
-  url: /theme-setup/
 
 - title: My dotfiles
   url: /dotfiles
