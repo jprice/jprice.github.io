@@ -28,8 +28,8 @@ kramdown:
 # Site owner
 owner:
   name: Josh Price
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  avatar: outlaw.gif
+  bio: "I am a part time Web Developer currently trying to learn all I can. This blog represents some of my struggles and breakthroughs."
   email: josh@joshprice.net
   disqus-shortname: randomnessofjoshprice
   twitter: jpric3
@@ -51,7 +51,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: jprice1542
   soundcloud: #username
 
 include: [".htaccess"]

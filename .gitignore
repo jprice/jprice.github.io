@@ -7,3 +7,8 @@ codekit-config.json
 node_modules
 _asset_bundler_cache
 theme-setup
+_octopress.yml
+_octopress/
+private/
+_drafts/
+
