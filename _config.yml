@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Josh Price
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  email: josh@joshprice.net
+  disqus-shortname: jpric3
+  twitter: jpric3
+  facebook: jpric3
   google:
     plus: #username
     analytics: UA-49914648-1
