@@ -1,3 +1,14 @@
+---
+layout: page
+title: "License files"
+date: 2014-12-08 21:37
+modified: 2014-12-08 21:37
+excerpt:
+tags: [license]
+image:
+  feature:
+---
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Josh Price
