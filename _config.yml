@@ -30,7 +30,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: josh@joshprice.net
-  disqus-shortname: randomnessofjoshprice
+  disqus-shortname:
   twitter: jpric3
   facebook: jpric3
   google:
