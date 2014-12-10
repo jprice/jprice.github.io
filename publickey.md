@@ -1,3 +1,19 @@
+---
+layout: page
+title: "PGP Key"
+date: 
+modified:
+excerpt: Contact me
+tags: [Josh Price, Josh, Price, jprice, jpric3, PGP, PGP Public key, PGP Key]
+comments: false
+image:
+  feature:
+---
+#PGP Public Key
+
+Below is my PGP Public Key if you need it for anything.
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
@@ -28,3 +44,4 @@ SaAnr7XmKda/Hzwt4IhgzLra44tmVkvoe33PaOlNTZ6G1dwpVYjczRw9dtrj9I8B
 riqfd0VFldB1YIC8ePIkExqNurtXZAKW7x9ptS9c
 =RkxQ
 -----END PGP PUBLIC KEY BLOCK-----
+```

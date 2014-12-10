@@ -6,4 +6,3 @@ gem 'octopress', '~> 3.0.0.rc.12'
 gem 'jekyll-mentions'
 gem 'jemoji'
 gem 'jekyll-redirect-from'
-gem 'coveralls', require: false
