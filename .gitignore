@@ -13,3 +13,7 @@ private/
 _drafts/
 _deleted/
 jprice.github.io.wiki
+node_modules
+_sass
+.sass-cache
+docs/
