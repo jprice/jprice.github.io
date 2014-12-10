@@ -1,13 +1,15 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+-	title: About
+	url: /about/
 
-- title: Posts
-  url: /posts/
+-	title: Posts
+	url: /posts/
 
-- title: My dotfiles
-  url: /dotfiles
+#-	title: My dotfiles
+#	url: /dotfiles
 
-- title: Github
-  url: http://github.com/jprice
+-	title: Contact
+	url: Contact.md
+-	title: Github
+	url: http://github.com/jprice
