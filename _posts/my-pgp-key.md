@@ -1,0 +1,45 @@
+---
+layout: post
+title: "My PGP Key"
+excerpt: "Here is my public key"
+modified: v2014.12.11.11.38.27
+tags: [Josh Price, jprice, PGP, Publie Key, PGP publie key, key, keyfile]
+comments: true
+---
+
+#PGP Public Key
+
+Below is my PGP Public Key if you need it for anything.
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+mQENBFSHvY8BCADDEUtvhvcSzJe6rkL6kG5nJ/SVIGU1tcpWlqMyrlq/ME/bxbEI
+2BhJ2Whk2Sd50ICS9dgclOHO79NxCvbjLh2cctEV81Z40Jzv3+bhQfasT7HOLR4X
+aiDYDle7kVF6Bnv1dBYeiSIDTIt/0nT0YNOccXr4J4ipGhbh85s9nnpPYSDhnAvJ
+fxHhZpJZZq14af32uR5qCpYN0pndXgMJldV+lbmsac9rkytVLzM8spB64VitneJq
+KjbVdWYpoUHR6hB181vnLrhUbE+50phu4iTVYPsEE4HGWVbT+ab3hvhrS5pCPXhx
+y3NaMdvsyHiRxqdipQTb7nSxXIsp6J6hqo0JABEBAAG0H0pvc2ggUHJpY2UgPGpv
+c2hAam9zaHByaWNlLm5ldD6JATgEEwECACIFAlSHvY8CGwMGCwkIBwMCBhUIAgkK
+CwQWAgMBAh4BAheAAAoJEIDfJ+c8bDoFztUH/3d44XLXR9+wRwOTNuY1qG/uRdsd
+Se4XJHQcXYfQeyuguGiMc5v0fyDswyOsEAYTryeZf7QrX/h/lTL44cSLeANCC8p/
+aMlxSylE7N5nJ0/9BIEFnU0MjGZgxo0ga5JOrU2PQQjP4qI28kp1jLyLxSX+mmiC
+drC/4eUfAY3VwoRShN7v3UXOuD6jk/E7TnpohmsUqKdUKuK9/ntkkL4axkd2sJmJ
+LsKPlbuthhmyxN6aSm8jc0WchTkkseCy8Bz93+V37cvZLaik8Q22WD5PT4uwF4Dm
+5Ky4INPwZj3rcPEhV4ZN/MbB9MGkBmoXwZ3sGpze1Cy3hbPbgKqj/tChPDa5AQ0E
+VIe9jwEIAK4fq1g1hNIaw5eK/m+nn0vov4HdPnJW9RDOYD33md1geqdDX7udYPdf
+ETSOa+gr26AzFl/rtzFOwliaOvKekBk4cNXo8aYT30PV7xoCpDpXWiQeDSmm8GOq
+be1cPA3/T1L0cUxCSUIeD7WcPx614jffzkYK2kmyttoJT294KBzpnhvQqU5o4aEG
+ekuaWECxnUBMRLRO2L6crVhAAMTiJEzUL+hZDxl7vGKc3Yteq1QoptBH0MwXy+eS
+fcdmLh75DFczn7bhwPP43+RlglvwgBshIi19sKOBlNJ1vZQDo8/eJxTwIP39cTYC
+nbucDDwdaRMwM7+Fv6ZsqLF6sJfUlnMAEQEAAYkBHwQYAQIACQUCVIe9jwIbDAAK
+CRCA3yfnPGw6BRIfB/9BhLqlz0m2vO5cn+ZxlnxhH4Rzlpq5yBU4s3wSrLwcDHiU
+CTpZBCE0VzSgvew+b2+5N5ubiDWNWSpDKX1/EMoawsY8uD+21j0mI5pqnmk3D1Zk
+SZwTvNIC59tVX+vZehaMCADYhMyR0s8sb++eM2025HKfj2bHFebWBCwI9hi4qh5t
+v4SArVFXj64FozVqHLMU9/PlmgjVgA/0KkGdppqModFSWdoFa2CLN+42jP1blmLs
+SaAnr7XmKda/Hzwt4IhgzLra44tmVkvoe33PaOlNTZ6G1dwpVYjczRw9dtrj9I8B
+riqfd0VFldB1YIC8ePIkExqNurtXZAKW7x9ptS9c
+=RkxQ
+-----END PGP PUBLIC KEY BLOCK-----
+```
