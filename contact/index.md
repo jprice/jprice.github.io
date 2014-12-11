@@ -10,7 +10,7 @@ image:
   feature:
 ---
 
-<span class="fa-key"></span>  ##PGP 
+##PGP <span class="fa-key"></span> 
 
 * [pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
 * [keybase.io](http://keybase.io/jprice)
@@ -27,3 +27,7 @@ image:
 ##IRC <span class="fa-code"></span> 
 
 * [jprice@irc.freenode.net](irc://irc.freenode.net)
+
+##Web Form <span class="fa-envelope"></span> 
+<form accept-charset="UTF-8" action="https://formkeep.com/f/9ec3ec9c19d8" method="POST">
+  <input type="hidden" name="utf8" value="✓">
