@@ -14,13 +14,13 @@ image:
     [pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
     [keybase.io](http://keybase.io/jprice)
 
-<span class="fa fa-envelope fa-2x"></span> ##E-Mail
+##E-Mail <span class="fa fa-envelope fa-2x"></span> 
     josh@joshprice.net
 
 
-<span class="fa fa-github fa-2x"></span> ##Github
+##Github <span class="fa fa-github fa-2x"></span> 
     [jprice](https://www.github.com/jprice)
 
-<span class="fa fa-code fa-2x"></span> ##IRC
+##IRC <span class="fa fa-code fa-2x"></span> 
     [jprice@irc.freenode.net](irc://irc.freenode.net)
 
