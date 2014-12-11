@@ -28,6 +28,3 @@ image:
 
 * [jprice@irc.freenode.net](irc://irc.freenode.net)
 
-##Web Form <span class="fa-envelope"></span> 
-<form accept-charset="UTF-8" action="https://formkeep.com/f/9ec3ec9c19d8" method="POST">
-  <input type="hidden" name="utf8" value="✓">
