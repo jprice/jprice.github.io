@@ -12,8 +12,8 @@ image:
 
 
 ## Contact Me
-If you need to get in contact with me for whatever reason just send an email to .
+If you need to get in contact with me for whatever reason just send an email to josh@joshprice.net.
 
-If you need something sensitive here is my [publickey.md](PGP public key).
+If you need something sensitive here is my [post](PGP public key).
 
 [^email_note]: Please don't spam it :)
