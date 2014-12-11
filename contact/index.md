@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact Me"
+title: "Contact"
 date: Thu Dec 11 11:27:10 2014 
 modified: Thu Dec 11 11:27:11 2014
 excerpt: Contact me
@@ -10,7 +10,7 @@ image:
   feature:
 ---
 
-##PGP <span class="key fa-2x"></span> 
+##PGP <span class="fa-key"></span> 
 
     -[pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
     -[keybase.io](http://keybase.io/jprice)
