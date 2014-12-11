@@ -8,6 +8,15 @@
 
 {% include _open-graph.html %}
 
+{% if site.owner.twitter %}<!-- Twitter Cards -->
+{% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
+{% else %}<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">{% endif %}
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
+
 {% if site.owner.google.verify %}<!-- Webmaster Tools verfication -->
 <meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
 {% if site.owner.bing-verify %}<meta name="msvalidate.01" content="{{ site.owner.bing-verify }}">{% endif %}
@@ -26,28 +35,6 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
-
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@site_username">
-<meta name="twitter:creator" content="@creator_username">
-{% if page.title %}
-<meta name="twitter:title" content="{{ page.title }}">
-{% else %}
-<meta name="twitter:title" content="{{ site.title }}">
-{% endif %}
-{% if page.url %}
-<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-{% endif %}
-{% if page.description %}
-<meta name="twitter:description" content="{{ page.description }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-{% if page.image %}
-<meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image }}">
-{% else %}
-<meta name="twitter:image:src" content="{{ site.url }}/images/outlaw.gif">
-{% endif %}
 
 <!-- HTML5 Shiv and Media Query Support -->
 <!--[if lt IE 9]>
