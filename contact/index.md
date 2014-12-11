@@ -11,6 +11,6 @@ image:
 ---
 
 
-If you need to get in contact with me for whatever reason just send an email to josh@joshprice.net.
+If you need to get in contact with me for whatever reason just send an email to [josh@joshprice.net](mailto:josh@joshprice.net).
 
 If you need something sensitive here is my [public key]({% post_url 2014-12-11-my-pgp-key%}).
