@@ -17,4 +17,5 @@ node_modules
 _sass
 .sass-cache
 jprice.github.io.sublime-workspace
-private/
+private
+build/

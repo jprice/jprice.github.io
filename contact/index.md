@@ -14,3 +14,18 @@ image:
 If you need to get in contact with me for whatever reason just send an email to [josh@joshprice.net](mailto:josh@joshprice.net).
 
 If you need something sensitive here is my [public key]({% post_url 2014-12-11-my-pgp-key%}).
+
+PGP
+    <span class="fa-key"></span>[pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
+    [keybase.io](http://keybase.io/jprice)
+
+E-Mail
+    <span class="fa-envelope"></span>josh@joshprice.net
+
+
+Github
+    <span class="fa-github"></span>[jprice](https://www.github.com/jprice)
+
+IRC
+    <span class="fa-code"></span>[jprice@irc.freenode.net](irc://irc.freenode.net)
+
