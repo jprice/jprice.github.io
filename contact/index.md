@@ -12,19 +12,19 @@ image:
 
 ##PGP <span class="fa-key fa-2x"></span> 
 
-    [pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
-    [keybase.io](http://keybase.io/jprice)
+    -[pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
+    -[keybase.io](http://keybase.io/jprice)
 
 ##E-Mail <span class="fa-envelope fa-2x"></span>
 
-    josh@joshprice.net
+    -[josh@joshprice.net](mailto:josh@joshprice.net)
 
 
 ##Github <span class="fa-github fa-2x"></span> 
 
-    [jprice](https://www.github.com/jprice)
+    -[jprice](https://www.github.com/jprice)
 
 ##IRC <span class="fa-code fa-2x"></span> 
 
-    [jprice@irc.freenode.net](irc://irc.freenode.net)
+    -[jprice@irc.freenode.net](irc://irc.freenode.net)
 
