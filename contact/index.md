@@ -10,17 +10,17 @@ image:
   feature:
 ---
 
-##PGP
-    <span class="fa-key"></span>[pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
+<span class="fa-key"></span> ##PGP
+    [pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
     [keybase.io](http://keybase.io/jprice)
 
-##E-Mail
-    <span class="fa-envelope"></span>josh@joshprice.net
+<span class="fa-envelope"></span> ##E-Mail
+    josh@joshprice.net
 
 
-##Github
-    <span class="fa-github"></span>[jprice](https://www.github.com/jprice)
+<span class="fa-github"></span> ##Github
+    [jprice](https://www.github.com/jprice)
 
-##IRC
-    <span class="fa-code"></span>[jprice@irc.freenode.net](irc://irc.freenode.net)
+<span class="fa-code"></span> ##IRC
+    [jprice@irc.freenode.net](irc://irc.freenode.net)
 
