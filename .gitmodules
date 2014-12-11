@@ -1,3 +1,3 @@
-[submodule "emacs/evil"]
-  path = emacs/evil
-    url = git://gitorious.org/evil/evil.git#
+[submodule "athaywarduk/jekyll-search"]
+  path = athaywarduk/jekyll-search
+    url = git@github.com:mathaywarduk/jekyll-search.git
