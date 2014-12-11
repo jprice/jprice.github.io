@@ -3,7 +3,7 @@ layout: page
 title: "Contact Me"
 date: Thu Dec 11 11:27:10 2014 
 modified: Thu Dec 11 11:27:11 2014
-excerpt:
+excerpt: Contact me
 tags: [Josh Price, Josh, Price, jprice, jpric3, Contact, Contact Josh Price, Contact jprice]
 comments: false
 image:
