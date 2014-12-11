@@ -26,5 +26,8 @@ image:
 
 ##IRC <span class="fa-code"></span> 
 
-    * [jprice@irc.freenode.net](irc://irc.freenode.net)
+* [jprice@irc.freenode.net](irc://irc.freenode.net)
+
+
+[Principal Component Analysis](http://en.wikipedia.org/wiki/Principal_component_analysis)
 
