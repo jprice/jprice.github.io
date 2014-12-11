@@ -10,7 +10,7 @@ image:
   feature:
 ---
 
-##PGP <span class="fa-key fa-2x"></span> 
+##PGP <span class="key fa-2x"></span> 
 
     -[pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
     -[keybase.io](http://keybase.io/jprice)
