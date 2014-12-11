@@ -1,14 +1,15 @@
 ---
 layout: page
 title: "Contact Me"
-date: 
-modified:
-excerpt: Contact me
+date: Thu Dec 11 11:27:10 2014 
+modified: Thu Dec 11 11:27:11 2014
+excerpt:
 tags: [Josh Price, Josh, Price, jprice, jpric3, Contact, Contact Josh Price, Contact jprice]
 comments: false
 image:
   feature:
 ---
+
 
 ## Contact Me
 If you need to get in contact with me for whatever reason just send an email to .
