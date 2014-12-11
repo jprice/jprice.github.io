@@ -6,7 +6,7 @@ url:              http://jprice.github.io
 version:          0.2.0
 image:            outlaw.gif
 description:      Personal blog of Josh Price
-myemail:          josh@joshprice.net
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
