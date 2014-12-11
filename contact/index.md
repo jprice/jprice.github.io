@@ -10,7 +10,7 @@ image:
   feature:
 ---
 
-##PGP <span class="fa-key fa-2x"></span> 
+##PGP <span class="fa fa-key fa-2x"></span> 
     [pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x80DF27E73C6C3A05)
     [keybase.io](http://keybase.io/jprice)
 
@@ -18,9 +18,9 @@ image:
     josh@joshprice.net
 
 
-<span class="fa-github fa-2x"></span> ##Github
+<span class="fa fa-github fa-2x"></span> ##Github
     [jprice](https://www.github.com/jprice)
 
-<span class="fa-code fa-2x"></span> ##IRC
+<span class="fa fa-code fa-2x"></span> ##IRC
     [jprice@irc.freenode.net](irc://irc.freenode.net)
 
