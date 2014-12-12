@@ -18,6 +18,7 @@ image:
 ##E-Mail <span class="fa-envelope"></span>
 
 * [josh@joshprice.net](mailto:josh@joshprice.net)
+* [josh@jpric3.com](mailto:josh@jpric3.com)
 
 
 ##Github <span class="fa-github"></span> 
