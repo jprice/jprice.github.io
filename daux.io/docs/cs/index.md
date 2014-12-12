@@ -1,1 +1,0 @@
-Here are various "Cheatsheets" that I have found helpful.
