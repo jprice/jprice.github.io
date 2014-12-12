@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+/sftp-config.json
+static
+private./
+default.sublime-workspace
+global.sublime-workspace
