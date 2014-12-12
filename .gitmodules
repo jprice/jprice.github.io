@@ -1,0 +1,3 @@
+[submodule "daux.io"]
+    path = daux.io
+    url = git@github.com:jprice/daux.io.git
