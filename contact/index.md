@@ -18,6 +18,10 @@ image:
 ##E-Mail <span class="fa-envelope"></span>
 
 * [josh@joshprice.net](mailto:josh@joshprice.net)
+<<<<<<< HEAD
+=======
+* [josh@jpric3.com](mailto:josh@jpric3.com)
+>>>>>>> 9e847a8b09d8a55e4136df3c0f28c69bb6eaa60f
 
 
 ##Github <span class="fa-github"></span> 
@@ -27,3 +31,7 @@ image:
 ##IRC <span class="fa-code"></span> 
 
 * [jprice@irc.freenode.net](irc://irc.freenode.net)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9e847a8b09d8a55e4136df3c0f28c69bb6eaa60f

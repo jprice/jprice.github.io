@@ -7,16 +7,12 @@ comments: true
 
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Welcome to my little space. This blog is mainly my ramblins of things I find interesting. Maybe you'll find something interesting too.
 
-## Minimal Mistakes is all about:
+## Tech Used
+* [http://jekyllrb.com](Jekyll)
+* [https://github.com/mmistakes/minimal-mistakes">minimal-mistakes](minimal-mistakes)
+* [https://github.com/mmistakes/hpstr-jekyll-theme">hpstr-jekyll-theme](hpstr-jekyll-theme)
+* [https://github.com/octopress/octopress](Octopress)
+* [https://github.com](GitHub Pages)
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
