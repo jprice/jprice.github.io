@@ -5,7 +5,7 @@ categories: [debian, linux]
 modified: 2015-01-09 21:43:29
 tags: [debian, linux, apt-get, update, dist-upgrade]
 published: True
-
+comments: true
 ---
 
 I've had it happen to me, and I'm sure you have too. It's a simple fix in most cases.
