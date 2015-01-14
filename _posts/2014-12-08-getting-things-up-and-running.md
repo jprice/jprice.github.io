@@ -3,9 +3,8 @@ layout: post
 title: Getting Things Up and Running
 date: 2014-12-08T21:41:17-05:00
 excerpt: A quick update.
-tags:
-  - personal
-  - jekyll
+tags: [personal, jekyll]
+
 comments: true
 ---
 
