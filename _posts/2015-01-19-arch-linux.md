@@ -11,7 +11,7 @@ image:
   creditlink: https://wiki.archlinux.org/index.php/DeveloperWiki:TrademarkPolicy
 ---
 
-<span class="fafa-linux"></span> A few weeks ago I decided to drop <span class="fa-windows"></span> Windows for good. I've always been a fan of [Debian](http://www.debian.org) based distributions. [Ubuntu](http://www.ubuntu.com) is too "bloated" for my liking. So I decided to give [Crunchbang](http://www.crunchbang.com). Everything was smooth. I was in love. Then one day I made a boo boo. Some how I managed to delete the network manager app, and I had no internet access. Well shit... 
+<span class="fa fa-linux fa-5x"></span> A few weeks ago I decided to drop <span class="fa-windows"></span> Windows for good. I've always been a fan of [Debian](http://www.debian.org) based distributions. [Ubuntu](http://www.ubuntu.com) is too "bloated" for my liking. So I decided to give [Crunchbang](http://www.crunchbang.com). Everything was smooth. I was in love. Then one day I made a boo boo. Some how I managed to delete the network manager app, and I had no internet access. Well shit... 
 
 I could not find my [Crunchbang](http://www.crunchbang.com) USB drive I had made, but I had an [ArchLinux](http://www.archlinux.org) one laying close by, so I thought screw it. I had been playing with [Arch](http://www.archlinux.org) for a long time in a VM even when I was a regular [Windows](http://www.microsoft.com) user. I bit the bullet and plugged in the drive and away I went. 
 
