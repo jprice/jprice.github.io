@@ -15,6 +15,6 @@ image:
 
 I could not find my [Crunchbang](http://www.crunchbang.com) USB drive I had made, but I had an [ArchLinux](http://www.archlinux.org) one laying close by, so I thought screw it. I had been playing with [Arch](http://www.archlinux.org) for a long time in a VM even when I was a regular [Windows](http://www.microsoft.com) user. I bit the bullet and plugged in the drive and away I went. 
 
-The install process is very different than what I am use to, but it is not impossible. There are a[ ton of great resources](http://www.google.com) out there.  It took just a few minutes and I was up and running. I couldn't be happier. I have a small problem with wifi, but I don't think it will be an issue to fix. I just haven't gotten around to it yet. I guess that's what I can do when I finish this post, huh?
+The install process is very different than what I am use to, but it is not impossible. There are a [ton of great resources](http://www.google.com) out there.  It took just a few minutes and I was up and running. I couldn't be happier. I have a small problem with wifi, but I don't think it will be an issue to fix. I just haven't gotten around to it yet. I guess that's what I can do when I finish this post, huh?
 
 Expect more [Arch](http://www.archlinux.org) posts in the future.
