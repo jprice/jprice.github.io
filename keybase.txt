@@ -4,7 +4,7 @@ https://keybase.io/jprice
 
 I hereby claim:
 
-  * I am an admin of http://joshprice.net
+  * I am an admin of http://jprice.io
   * I am jprice (https://keybase.io/jprice) on keybase.
   * I have a public key with fingerprint 13BC 5491 39B4 F514 ECE9  3013 8289 4F3E 78E0 4C5B
 
@@ -12,60 +12,51 @@ To claim this, I am signing this object:
 
 {
     "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.7.3"
-        },
         "key": {
             "fingerprint": "13bc549139b4f514ece9301382894f3e78e04c5b",
             "host": "keybase.io",
-            "key_id": "82894F3E78E04C5B",
+            "key_id": "82894f3e78e04c5b",
+            "kid": "01017be261ab811b85cf0e929aeed2866f21c875caf5778385d0f57f62b5e007fa4b0a",
             "uid": "74a74fcd7d7646b8754a973e41c83500",
             "username": "jprice"
         },
-        "merkle_root": {
-            "ctime": 1420756246,
-            "hash": "1cb752da181ccb3cd059f6939b78cb20f64472fd388765687db663ecc1aa6f7a6b50262c8bb2e2fc7331c49ea2bd84b090532449d8d8eeb19df21087ea04e466",
-            "seqno": 125519
-        },
         "service": {
-            "hostname": "joshprice.net",
+            "hostname": "jprice.io",
             "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1420756324,
+    "ctime": 1423341483,
     "expire_in": 157680000,
-    "prev": "12707325abd8af5ae4f9e55d07a2c8043d82de02eea505918a9d29e0f3e8a9a6",
-    "seqno": 13,
+    "prev": "6aa248ec7377fe2db60062236f58b29327f3dbdd1584be96d4143803f4578361",
+    "seqno": 21,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
 
-owFVkm2IFVUYx++97dXdyFyQXihBd0j6cr2eOS9zzmwW1bZW5vqlNakP3c7LM3tn
-3Z25ztzd3G6bVFpuREQQkZTGEprIIpRRQS/situq5QfRWoiIohQpwzUWguzlzE1B
-59OZef7zP//f8zyvLromV8gvOXr80OdTT7ydP3ZW5XoPFE3DUbEZcTobjh4IIapn
-p0gOgtPpbIIRJVMoh/HyKDZQ7k+XX9KUnGFI0jCOrAqVeZk4o6VMnv0chFEfJLUk
-zLwclyjNqO8SX9GAuRQ0+AS5RGDh04AAF4CoZspaVuO0ftWtTtOzEhr7talfQ7q5
-6Ea0i91ra0PNAqeS00AbbrhHPSU4o9LnBKirBWEIZcIUkktI/TaXhiztICSbBqCS
-xHETWdfDTOBSjDjzMPVsHplWMwKtOMNGusLVWhFtEPMDz7dAXGiFUeBRynFgiBDc
-Y57gRnkeAa1dKb2AS08xhD2shVIYcKA5Ia6mPkisjKAK+YgRTKlvhBEAyvVNgF0k
-OEhEgXqeBUhhcxTbcJgx1x/N3pPhDMPmzpp2mS1Oq028cgTZiGpJXI91PGBL1Xq9
-1plR10dqmfRJUJV04n+XigojY2d25VBdK726IzZiyYEttTCBSpgpGPcEsk92Dwxn
-fcIccYKZtFgyYBJo4ANjBnFp4RElRmADCANIZlvoCukb7AOyS2CP8kpOYoPKPuuZ
-hn2RrA8ldmJj+aUtuXwht6BYyNY2d21b++Vd3rWtNffcY+9svH/fiVPpn4cXv9xS
-mMgFZPLkx6t+WjH74/51t724Yu6N67/96pl/z11XvaX49037T+2YSMbH2ft3/DBT
-77l9V/v25899Q1dv7Wi89eUXr5UeJl9DetDbMHX4oa6l33ftmTuy+s0P8jdueWB6
-5oWLjbuWjew8/cvYwdZK69bXxy+sf69/76OLq2tfOdB25Lt3O87/M70o2E1j94wu
-td75+KHeuQuTPZ/MrqUtHUM9F489OE961+yYnj9+c0T+mlrX6MrjsXsm2xc8u2G2
-7Wc5utEJTw8fXRWsPOveOne++OtnmxfmPnxqfiKZXKZ2vlQIioPr7/5oZjT84+S2
-M92PfArbfw9nTtz39G83/Ac=
-=GCj8
+yMIUAnicbZJbSBVBGMePmllaKnQj6sV9MUpsZmd2Z/ZYRNkF6Q5pIMJxZ3f2tKW7
+x3PWG2IZ3TGCCoruWURlFlQo1IOZCtHVLhChlWQRVBSm0YOYNWv1EDQvM/N9/+83
+8//4OicmBJLjJt171NHaXnwi7v7teeWBdc8rL9VIzDWrpWCNtImPbpbthHk0ErUd
+TwpKEDFDwRpEGsOWAjE3uIYARFSmGrYQJ5QDbChMypI2uDG/QmCYHuPZtiti4hKy
+TRH9j37TaAJAAAnjsgp1RiFkVDEswDVZ0zk3ZaqqlgwNShRDtxRCKKKKCcTJUmWm
+cACIpWMGdIErH8URrBNsGSYxiYpVJgqxrhHEsYAgBQBfGONRRy/lQr1R2DS4VJsl
+iViFfxQN8H38k/9tJRJ1PddwS0R4g+dFgn6VVx3xZZWchf4AQsx2TNFBUVDBozHb
+daQgFErDs30ixDJCGGKKsiReFbGjPGT7CoWoFIjlP8MrBFLVdRlTbhBEiMVlk6kA
+qLKMVEuhTNaQTCxkMtOECsWMa6opoIgCZGFFNEmFkm+pzHGloAzFP/WwYMbssKN7
+5VFhuL2taEwgLjkwNjHeH4JA8vj0v6MxfsG4wCntJPj4be/I23D9eXfhyI60rgdp
+mdcS9k0tmDYwtH230l539uGiO2ktvYdpSyhn+GXqlubpmRkpT0MTbi27vnl5c1qH
+sSqLHioeXL3gWVXdkoLsPR9/5F9Yn56yP/hlytEJjblV7WFc+vlJ2c++/qYbSRdf
+FSb9vELeT54962h3w87C3to5g4nlM1MaP507fWpXZ0ZpZ+38SqWse21uwdfvw2dm
+gKQPfQ1vyLbIiiNdRTBnzfb9dOvljpKr8dn1P2oG5tZM3LbqQF6Pt2dLT/7rZide
+pc6snlqwuH9K3pGKoeRjj+/uW/6ppP9F68qlTdXHH9+U33mXh/kzq+1DU5+1IrXr
+YPMvMKop3w==
+=BlM/
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
