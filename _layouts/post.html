@@ -14,7 +14,7 @@ layout: default
 <div id="post">
   {{ content }}
 </div>
-{% if disqus-shortname and page.comments == true %}
+{% if site.data.disqus-shortname and page.comments == true %}
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
   {% endif %}
 <div id="related">
