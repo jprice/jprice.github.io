@@ -3,5 +3,14 @@ highlighter: pygments
 url: http://outlaw.pw
 lsi: false
 
+google:
+  plus: #username
+    analytics: UA-48500511-1
+    verify: 0aR5_0pzt9ZyTTG0ZU6TMoOI_V1eY28fqDxwIftV_Ig
+    ad-client:
+    ad-slot:
+bing-verify: 30E07C7772DE6A58D16B60A75A292A4A
+disqus-shortname: randomnessofjoshprice
+
 include: [".htaccess"]
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
