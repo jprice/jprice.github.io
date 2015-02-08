@@ -17,6 +17,15 @@ social:
   #gplus: 110552447039675960964
   gravatar: 1a11f5ca3f09201f0fc58e60a9ea5198
 
+google:
+  plus: #username
+    analytics: UA-48500511-1
+    verify: 0aR5_0pzt9ZyTTG0ZU6TMoOI_V1eY28fqDxwIftV_Ig
+    ad-client:
+    ad-slot:
+bing-verify: 30E07C7772DE6A58D16B60A75A292A4A
+disqus-shortname: randomnessofjoshprice
+
 # "Hi, I'm _______"
 name: Josh Price
 email: josh@jprice.io
