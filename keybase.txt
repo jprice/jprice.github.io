@@ -65,3 +65,77 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/jprice
 
 ==================================================================
+
+==================================================================
+https://keybase.io/jprice
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joshprice.net
+  * I am jprice (https://keybase.io/jprice) on keybase.
+  * I have a public key with fingerprint 13BC 5491 39B4 F514 ECE9  3013 8289 4F3E 78E0 4C5B
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "13bc549139b4f514ece9301382894f3e78e04c5b",
+            "host": "keybase.io",
+            "key_id": "82894f3e78e04c5b",
+            "kid": "01017be261ab811b85cf0e929aeed2866f21c875caf5778385d0f57f62b5e007fa4b0a",
+            "uid": "74a74fcd7d7646b8754a973e41c83500",
+            "username": "jprice"
+        },
+        "revoke": {
+            "sig_ids": [
+                "56e6ce71005a08c09dd3874c76e72c56b28162b4f350cc18fef166207699a1a30f"
+            ]
+        },
+        "service": {
+            "hostname": "joshprice.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423406979,
+    "expire_in": 157680000,
+    "prev": "8b570269424ad9bbe2b995eba639158387c58b4b0a6a66d855fb86952728a51a",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMJpAnicbVJdaFRHGN0kuqkhqYFS2oJYvBgsmqYzc+/8LbYoBJImIFZNjbbddWbu
+3ORmzd51d7PGJoomEiqKiEl8KCoRjNj40x+IhlqKpk1ptqT056FQ0gd9qBBpI1oa
+RRs7N9S3zsudO3O+c853vvm6oiRSVvRc4fuvvhzfcarouxsnOyJbftnd22XJwN1j
+xbqspF74eH6qRWfSGT+Vs2IWtKXCDoc2l46HoaOV5jaANkOMO56tKdPAUVha1VZr
+kA0rDI0UWV3jB+bM/CR815z+Dz65cAEggFRqRKCQDELJsPKA5ogLrV3ECPEQVIxi
+JTxMKbMZdoHZeQRJrAGgnnAkEIauY4GOOoI6nnKpS4lDpCl0BKe2dgyJjQEIgVmd
+SYl2bdBtpk2lrb3VVkbng6QO+8/6LcZy1oq9Y2GiidIUAoAFYApw17UZdRQlmiKF
+iUQMGh+mLwyUgszTHiQEAUo4F1DYwLPeM9xGLx/KGPIwo6faQbZ1Qb4mpXPGVjoT
+5AIV7DRXrblcOha6yu1Jh9DdWib+I0lIP+WaCZmCvM5k/SBlxaBBqpwfskIH2Q4g
+nPJqS3em/YxO+CECU8KAWaGMzofzkJgCRLiDHOFyaQYgOcdaCmJziE3MVGEmw2iJ
+IMRlGHuSEY4RRUxgGAae1btSgRVDyPgULYbTJJcSuY6MCXT8+ruLIkVlkeji4vCR
+RcqWVD59es8XSp/Udcflsn/iPbP3rp3pPtXwqG9w2+nJ+xdefWYuObdme9PGksJh
+/MeDJxNHvnn786phdHDrgdUvlQ+tSH9cO7ZhZmCm8ZXoWutMycOBnwqrP/vzw61X
+0uvjM333z//c0zP7uD2+l8df7F86PT3VXVsZd4ld/GNV9FH7a5cmx3o3rln5wXxf
+f1RevTz16+gn/qaR4PaOK++33d03P1R+N9K089CW30/8dbxz2K4cj35R/tsLb6xq
+Tqzt2TWIG+uPvXztztVC94k339rfee7W/ubi2YsTY3M/lCz/9mE0rwbVdH1FzUc3
+vf6ugaN/l9YlL898yrZfPPbspbrptrOj60YeP1An5zobVt2eeH3zv2Y/SA4=
+=ipU/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jprice
+
+==================================================================

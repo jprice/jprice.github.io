@@ -20,7 +20,8 @@ sftp-config.json
 ### Jekyll ###
 .sass-cache/
 _site/
-
+_drafts
+_defaults
 
 ## Other ##
 privite
