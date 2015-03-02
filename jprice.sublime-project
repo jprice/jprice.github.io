@@ -1,9 +1,19 @@
-{
-	"folders":
-	[
-		{
-			"follow_symlinks": true,
-			"path": "."
-		}
-	]
-}
+  {
+      "folders":
+      [
+          {
+              "follow_symlinks": true,
+              "path": "/home/outlaw/Projects/jprice.github.io/"
+          }
+      ],
+  
+      "settings":
+      {
+          "Jekyll":
+          {
+              "posts_path": "/home/outlaw/Projects/jprice.github.io/_posts",
+              "drafts_path": "/home/outlaw/Projects/jprice.github.io/_drafts",
+          }
+      }
+  }
+  
