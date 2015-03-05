@@ -27,3 +27,6 @@ google_analytics_key: UA-59455324-1
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
+
+# Toggle mailing list
+show_list: true
