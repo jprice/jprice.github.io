@@ -26,3 +26,5 @@ _defaults
 ## Other ##
 privite/
 crap
+docs/crap
+docs/private/*
