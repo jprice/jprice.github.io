@@ -13,4 +13,5 @@
 
 /* TEAM */
   Name: Josh Price
-  Site: http://www.joshprice.net
+  Site: http://www.jprice.io
+  Site: http://www.outlawit.com
