@@ -12,6 +12,7 @@ social:
   stackoverflow: 1657528
   twitter: jpric3
   facebook: jpric3
+  reddit: jprice1542
   #tumblr: animalygifs
   #linkedin: philipjagielski
   #gplus: 110552447039675960964
@@ -30,3 +31,5 @@ show_disclaimer: true
 
 # Toggle mailing list
 show_list: true
+
+show_dmca: true
