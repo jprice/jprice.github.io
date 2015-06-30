@@ -2,9 +2,10 @@
 layout: post
 title: "Archlinux - No Wifi"
 excerpt: "All the cool kids are doing it, so why not"
-modified: 2015-06-21 17:29:58
+modified: 2015-06-25 07:00:06
 tags: [personal, github, arch, archlinux, linux]
 comments: true
+categories: [archlinux, linux]
 image:
   feature: archlinux-logo.png
   credit: ARCHLINUX

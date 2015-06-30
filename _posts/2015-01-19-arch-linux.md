@@ -2,9 +2,11 @@
 layout: post
 title: "Archlinux"
 excerpt: "My adventure of switching to ArchLinux"
-modified: 2015-01-19 10:04:30
+modified: 2015-06-25 07:00:16
 tags: [personal, github, arch, archlinux, linux]
 comments: true
+categories: [archlinux, linux]
+image:
 image:
   feature: archlinux-logo.png
   credit: ARCHLINUX
