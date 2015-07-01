@@ -6,10 +6,10 @@
 
 
 /* SITE */
-  Last Updated: 2015-02-07 15:35:08 
+  Last Updated: 2015-07-01 13:58:08 
   Standards: HTML5, CSS3
   Components: Jekyll, Octopress, jekyll-sitemap, Github Pages, jekyll-mentions, jemoji, jekyll-redirect-from
-  IDE: Atom, GIMP, ArchLinux
+  IDE: Sublime Text 3, GIMP, ArchLinux
 
 /* TEAM */
   Name: Josh Price
