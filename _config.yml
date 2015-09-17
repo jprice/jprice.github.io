@@ -6,7 +6,7 @@ gems:
   - jekyll-redirect-from
 # General Jekyll Config
 highlighter: pygments
-url: http://outlaw.pw
+url: http://jprice.io
 lsi: false
 
 google:
