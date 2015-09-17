@@ -14,3 +14,5 @@ disqus-shortname: randomnessofjoshprice
 
 include: [".htaccess"]
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+gems:
+  - jekyll-feed
