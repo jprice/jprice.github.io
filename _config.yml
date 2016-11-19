@@ -5,7 +5,7 @@ gems:
   - jemoji
   - jekyll-redirect-from
 # General Jekyll Config
-highlighter: pygments
+highlighter: rouge
 url: http://jprice.io
 lsi: false
 
