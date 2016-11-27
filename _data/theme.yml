@@ -32,4 +32,4 @@ show_disclaimer: true
 # Toggle mailing list
 show_list: true
 
-show_dmca: true
+show_dmca: false
