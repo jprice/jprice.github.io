@@ -241,6 +241,12 @@ i.fa-hn {
   text-align: center;
 }
 
+.quicklinks p {
+  margin-top: 10px;
+  font-size: 10px;
+  text-align: center;
+}
+
 .footnotes {
   font-size: 14px;
   font-style: italic;
